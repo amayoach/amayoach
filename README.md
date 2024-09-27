@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on research projects and grants
 - 📫 How to reach me: lamayap@ed.ac.uk
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I dance without shame anywhere
+- ⚡ Fun fact: I dance shamelessly anywhere
 
 <!---
 amayoach/amayoach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
