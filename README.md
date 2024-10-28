@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning and Social Network Analysis
 - 💞️ I’m looking to collaborate on research projects and grants
 - 📫 How to reach me: lamayap@ed.ac.uk
-- 😄 Pronouns: she/her
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: I dance shamelessly anywhere
 
 <!---
